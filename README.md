@@ -5,6 +5,13 @@
 ***Hardcore Client*** is a free userscript cheat menu for [CS:GO Clicker Classic](https://mtsl.dk/csgo), originaly created by Lapide.
 
 **ONLY FOR PC**
+**Please leave a star! It will support this repository.**
+### YOU NEED TAMPERMONKEY!
+
+## Socials
+- [Discord](https://discord.gg/6eaDrx5J9s)
+- [Twitter](https://twitter.com/LapideDev)
+- [YouTube](https://www.youtube.com/watch?v=ZdfO_ocV8PI)
 
 ## How To Install
 - Install [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
